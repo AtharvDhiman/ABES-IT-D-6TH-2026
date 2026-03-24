@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Constancia",
-    "email": "cclimpson0@auda.org.au",
-    "password": "aL8)5(gt5Tc5W@_"
-  },
-  {
     "id": 2,
     "name": "Galvin",
     "email": "gkaindl1@ow.ly",
@@ -14,8 +8,8 @@
   {
     "id": 3,
     "name": "Vittorio",
-    "email": "vhowe2@yolasite.com",
-    "password": "eL1`eQC9B4a3P"
+    "email": "VHOWE2@YOLASITE.com",
+    "password": "1234"
   },
   {
     "id": 4,
@@ -70,11 +64,5 @@
     "name": "abc",
     "email": "abcdef@gmail",
     "password": "1234"
-  },
-  {
-    "id": 13,
-    "name": "abc",
-    "email": "abc@gmail.com",
-    "password": "12345"
   }
 ]
